@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\atamyrat\\projects ue\\bananabash\\intermediate\\source\\bananabash.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\atamyrat\\projects ue\\bananabash\\intermediate\\build\\win64\\x64\\bananabash\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\atamyrat\\projects ue\\bananabash\\intermediate\\build\\win64\\x64\\unrealgame\\development\\bananabash\\definitions.bananabash.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

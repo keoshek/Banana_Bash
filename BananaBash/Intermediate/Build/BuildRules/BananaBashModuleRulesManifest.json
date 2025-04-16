@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Atamyrat\\Projects UE\\BananaBash\\Intermediate\\Source\\BananaBash.Build.cs",
+		"D:\\Atamyrat\\Projects UE\\BananaBash\\Intermediate\\Source\\BananaBash.Target.cs",
+		"D:\\Atamyrat\\Projects UE\\BananaBash\\Intermediate\\Source\\BananaBashClient.Target.cs",
+		"D:\\Atamyrat\\Projects UE\\BananaBash\\Intermediate\\Source\\BananaBashEditor.Target.cs",
+		"D:\\Atamyrat\\Projects UE\\BananaBash\\Intermediate\\Source\\BananaBashServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

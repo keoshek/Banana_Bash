@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Atamyrat/Projects UE/BananaBash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Box_FB6FDAAC.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Wall_4m.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Red.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Blue.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Green.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Floor_4m.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Ceiling_4m.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Floor_1x4m_1763A026.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Platform_3x3x4m_24857C93.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Stairs_2439F458.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Stairs_4m.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Column_4m.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Purple.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Black.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Levels/Map_01.umap",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Levels/Level_01.umap",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Blueprints/BP_FallingBlock.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Maps/Map_01.umap",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Box_0D6C6AB4.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Maps/Mesh_Gen/Box_FB6FDAAC.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Maps/Mesh_Gen/Ceiling_4m.uasset",
+				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Maps/Mesh_Gen/Floor_4m.uasset"
+			]
+		}
+	]
+}
