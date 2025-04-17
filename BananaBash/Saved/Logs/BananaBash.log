@@ -17056,3 +17056,220 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.17-11.46.15:266][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.17-11.46.15:266][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.17-11.46.15:266][ 92]AssetCheck: /Game/BananaBash/Levels/Level_01 Validating asset
+[2025.04.17-11.52.08:981][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25299.699219
+[2025.04.17-11.52.09:978][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-11.52.09:978][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25300.363281, Update Interval: 343.020111
+[2025.04.17-11.52.45:463][344]LogDerivedDataCache: C:/Users/Serdar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.17-11.56.15:164][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.17-11.56.15:168][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BananaBash/Levels/Level_01' took 0.024
+[2025.04.17-11.56.15:168][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BananaBash/Mesh_Gen/TreasureChest_Lid] ([1] browsable assets)...
+[2025.04.17-11.56.15:168][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/BananaBash/Mesh_Gen/TreasureChest_Lid]
+[2025.04.17-11.56.15:170][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BananaBash/Mesh_Gen/TreasureChest_Lid_Auto4
+[2025.04.17-11.56.15:170][494]LogSavePackage: Moving 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/TreasureChest_Lid_Auto4434842CE4D009405AF44BEBE82EEFEE6.tmp' to 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/Autosaves/Game/BananaBash/Mesh_Gen/TreasureChest_Lid_Auto4.uasset'
+[2025.04.17-11.56.15:170][494]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.04.17-11.58.46:157][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25697.224609
+[2025.04.17-11.58.46:808][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-11.58.46:808][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25697.863281, Update Interval: 336.296265
+[2025.04.17-12.02.55:509][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-12.02.55:537][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BananaBash/Levels/Level_01" FILE="D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.17-12.02.55:574][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.04.17-12.02.55:659][508]LogSavePackage: Moving output files for package: /Game/BananaBash/Levels/Level_01
+[2025.04.17-12.02.55:659][508]LogSavePackage: Moving 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/Level_01E8D5C964467E1AE8A5686ABDE09BD9E5.tmp' to 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap'
+[2025.04.17-12.02.55:668][508]LogFileHelpers: Saving map 'Level_01' took 0.132
+[2025.04.17-12.02.55:678][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.128 ms (total: 55.1 sec)
+[2025.04.17-12.02.55:706][508]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-12.02.55:706][508]LogContentValidation: Enabled validators:
+[2025.04.17-12.02.55:706][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-12.02.55:706][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-12.02.55:706][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-12.02.55:706][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-12.02.55:706][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-12.02.55:706][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-12.02.55:707][508]AssetCheck: /Game/BananaBash/Levels/Level_01 Validating asset
+[2025.04.17-12.02.58:468][665]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.02.58:468][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.02.58:474][665]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.02.58:474][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.02.58:576][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.17-12.02.59:110][696]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.17-12.02.59:110][696]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.02.59:110][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.02.59:182][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.17-12.02.59:668][723]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.02.59:668][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.02.59:769][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.17-12.05.05:939][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26077.236328
+[2025.04.17-12.05.06:940][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-12.05.06:940][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26077.902344, Update Interval: 355.832397
+[2025.04.17-12.09.40:165][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-12.09.40:201][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BananaBash/Levels/Level_01" FILE="D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.17-12.09.40:229][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.17-12.09.40:298][149]LogSavePackage: Moving output files for package: /Game/BananaBash/Levels/Level_01
+[2025.04.17-12.09.40:298][149]LogSavePackage: Moving 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/Level_010DF9B82E4CA37ED55D302B89276B968D.tmp' to 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap'
+[2025.04.17-12.09.40:307][149]LogFileHelpers: Saving map 'Level_01' took 0.106
+[2025.04.17-12.09.40:315][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.120 ms (total: 55.3 sec)
+[2025.04.17-12.09.40:350][149]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-12.09.40:350][149]LogContentValidation: Enabled validators:
+[2025.04.17-12.09.40:350][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-12.09.40:350][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-12.09.40:350][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-12.09.40:350][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-12.09.40:350][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-12.09.40:350][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-12.09.40:350][149]AssetCheck: /Game/BananaBash/Levels/Level_01 Validating asset
+[2025.04.17-12.09.43:457][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.04.17-12.09.47:017][334]LogSlate: Window 'Save Content' being destroyed
+[2025.04.17-12.09.48:303][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.17-12.09.49:247][405]LogSlate: Window 'Save Content' being destroyed
+[2025.04.17-12.09.49:268][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-12.09.49:293][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BananaBash/Mesh_Gen/TreasureChest_Lid] ([1] browsable assets)...
+[2025.04.17-12.09.49:293][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/BananaBash/Mesh_Gen/TreasureChest_Lid]
+[2025.04.17-12.09.49:293][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BananaBash/Mesh_Gen/TreasureChest_Lid" FILE="D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Mesh_Gen/TreasureChest_Lid.uasset" SILENT=true
+[2025.04.17-12.09.49:295][405]LogSavePackage: Moving output files for package: /Game/BananaBash/Mesh_Gen/TreasureChest_Lid
+[2025.04.17-12.09.49:295][405]LogSavePackage: Moving 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/TreasureChest_Lid44B36598466F3DF8F9A8EEA7ADECDE12.tmp' to 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Mesh_Gen/TreasureChest_Lid.uasset'
+[2025.04.17-12.09.49:303][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.813 ms (total: 55.3 sec)
+[2025.04.17-12.09.49:331][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-12.09.49:331][405]LogContentValidation: Enabled validators:
+[2025.04.17-12.09.49:331][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-12.09.49:331][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-12.09.49:331][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-12.09.49:331][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-12.09.49:331][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-12.09.49:331][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-12.09.49:332][405]AssetCheck: /Game/BananaBash/Mesh_Gen/TreasureChest_Lid Validating asset
+[2025.04.17-12.09.50:029][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-12.09.50:070][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BananaBash/Levels/Level_01" FILE="D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.17-12.09.50:094][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.17-12.09.50:166][447]LogSavePackage: Moving output files for package: /Game/BananaBash/Levels/Level_01
+[2025.04.17-12.09.50:166][447]LogSavePackage: Moving 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/Level_016DE8B36E47F90D9F3B4084AF9461B4BA.tmp' to 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap'
+[2025.04.17-12.09.50:174][447]LogFileHelpers: Saving map 'Level_01' took 0.104
+[2025.04.17-12.09.50:181][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.391 ms (total: 55.5 sec)
+[2025.04.17-12.09.50:210][447]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-12.09.50:210][447]LogContentValidation: Enabled validators:
+[2025.04.17-12.09.50:210][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-12.09.50:210][447]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-12.09.50:210][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-12.09.50:210][447]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-12.09.50:210][447]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-12.09.50:210][447]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-12.09.50:210][447]AssetCheck: /Game/BananaBash/Levels/Level_01 Validating asset
+[2025.04.17-12.10.00:466][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-12.10.00:508][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BananaBash/Levels/Level_01" FILE="D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.17-12.10.00:531][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.17-12.10.00:607][ 56]LogSavePackage: Moving output files for package: /Game/BananaBash/Levels/Level_01
+[2025.04.17-12.10.00:608][ 56]LogSavePackage: Moving 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/Level_014DEDF0DE48FCB86F829626BA2459E82F.tmp' to 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap'
+[2025.04.17-12.10.00:616][ 56]LogFileHelpers: Saving map 'Level_01' took 0.109
+[2025.04.17-12.10.00:623][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.314 ms (total: 55.6 sec)
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: Enabled validators:
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-12.10.00:657][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-12.10.00:657][ 56]AssetCheck: /Game/BananaBash/Levels/Level_01 Validating asset
+[2025.04.17-12.10.02:255][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-12.10.02:295][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BananaBash/Levels/Level_01" FILE="D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.17-12.10.02:320][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.17-12.10.02:394][152]LogSavePackage: Moving output files for package: /Game/BananaBash/Levels/Level_01
+[2025.04.17-12.10.02:394][152]LogSavePackage: Moving 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Saved/Level_01D6AAB4F94BBBB684C670E88F4B8A050E.tmp' to 'D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap'
+[2025.04.17-12.10.02:402][152]LogFileHelpers: Saving map 'Level_01' took 0.106
+[2025.04.17-12.10.02:409][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.344 ms (total: 55.8 sec)
+[2025.04.17-12.10.02:456][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-12.10.02:456][152]LogContentValidation: Enabled validators:
+[2025.04.17-12.10.02:456][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-12.10.02:456][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-12.10.02:456][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-12.10.02:456][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-12.10.02:456][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-12.10.02:456][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-12.10.02:456][152]AssetCheck: /Game/BananaBash/Levels/Level_01 Validating asset
+[2025.04.17-12.10.18:974][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.04.17-12.10.19:007][477]LogStall: Shutdown...
+[2025.04.17-12.10.19:007][477]LogStall: Shutdown complete.
+[2025.04.17-12.10.19:039][477]LogSlate: Window 'BananaBash - Unreal Editor' being destroyed
+[2025.04.17-12.10.19:040][477]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.04.17-12.10.19:522][477]Cmd: QUIT_EDITOR
+[2025.04.17-12.10.19:522][478]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.17-12.10.19:526][478]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.17-12.10.19:526][478]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.17-12.10.19:526][478]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.17-12.10.19:535][478]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:536][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:544][478]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.17-12.10.19:544][478]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.17-12.10.19:553][478]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:553][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:555][478]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:555][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:558][478]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:558][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:561][478]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:561][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:563][478]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:563][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:564][478]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:564][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:566][478]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:566][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:567][478]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:567][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:569][478]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:569][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:570][478]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:571][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:572][478]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:572][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:574][478]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:574][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:576][478]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-12.10.19:576][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-12.10.19:578][478]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.17-12.10.19:587][478]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.17-12.10.19:587][478]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.17-12.10.19:587][478]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.17-12.10.19:745][478]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.17-12.10.19:745][478]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.17-12.10.19:745][478]LogAudio: Display: Audio Device unregistered from world 'Level_01'.
+[2025.04.17-12.10.19:745][478]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.17-12.10.19:745][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.17-12.10.19:748][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.17-12.10.19:754][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.17-12.10.19:754][478]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.17-12.10.19:757][478]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.17-12.10.19:757][478]LogExit: Preparing to exit.
+[2025.04.17-12.10.19:793][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.17-12.10.19:811][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:811][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:812][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.19:813][478]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-12.10.21:062][478]LogEditorDataStorage: Deinitializing
+[2025.04.17-12.10.21:178][478]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.17-12.10.21:235][478]LogExit: Editor shut down
+[2025.04.17-12.10.21:238][478]LogExit: Transaction tracking system shut down
+[2025.04.17-12.10.21:434][478]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 17.
+[2025.04.17-12.10.21:456][478]LogExit: Object subsystem successfully closed.
+[2025.04.17-12.10.21:553][478]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.17-12.10.21:881][478]LogMemoryProfiler: Shutdown
+[2025.04.17-12.10.21:882][478]LogNetworkingProfiler: Shutdown
+[2025.04.17-12.10.21:882][478]LoadingProfiler: Shutdown
+[2025.04.17-12.10.21:882][478]LogTimingProfiler: Shutdown
+[2025.04.17-12.10.22:287][478]LogChaosDD: Chaos Debug Draw Shutdown
