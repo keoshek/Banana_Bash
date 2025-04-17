@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Levels/Level_01.umap",
+				"D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Blueprints/BP_FireSpurt.uasset",
+				"D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/BananaBash/Blueprints/BP_FallingBlock.uasset",
+				"D:/Atamyrat/Projects UE/Banana_Bash/BananaBash/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Atamyrat/Projects UE/BananaBash/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Box_FB6FDAAC.uasset",
 				"D:/Atamyrat/Projects UE/BananaBash/Content/BananaBash/Mesh_Gen/Wall_4m.uasset",
